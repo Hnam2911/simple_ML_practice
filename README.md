@@ -43,16 +43,16 @@ If you want to clone the code to review or run it on your local machine:
    ```bash
    git clone [https://github.com/Hnam2911/simple_ML_practice.git](https://github.com/Hnam2911/simple_ML_practice.git)
    cd simple_ML_practice
-2.**Install necessary libraries:**
+2. **Install necessary libraries:**
 Make sure you have Jupyter Notebook and the standard Python libraries for Data Science installed. You can easily install them via pip or conda.
 
-3.**Launch Jupyter Notebook:**
+3. **Launch Jupyter Notebook:**
 Navigate to the jupyter/ directory and start Jupyter:
+   ```bash
+   cd jupyter
+   jupyter notebook
 
-cd jupyter
-jupyter notebook
-
-4.**Data Paths (Important):**
+4. **Data Paths (Important):**
 When running the .ipynb files, ensure that the file paths for reading the .csv datasets correctly point to the ../data/ directory.
 
 Thank you for visiting! If you have any suggestions to optimize my code or approaches, please feel free to open an Issue!
